@@ -71,6 +71,34 @@ Cole aqui o seu segundo atalho, já adaptado.
 ### Minha Delegação
 
 ```text
+DELEGAÇÃO DE TAREFA — ANÁLISE DE AUDITORIA
+OBJETIVO
+Realizar uma análise aprofundada de uma auditoria operacional de restaurante industrial e elaborar um plano de ação gerencial para tratar as não conformidades identificadas.
+CONTEXTO
+A auditoria identificou quatro apontamentos:
+1.	Produtos fracionados sem identificação de nome, data de manipulação e validade.
+2.	Registros de temperatura dos equipamentos de refrigeração incompletos em três dias da semana.
+3.	Ausência de registros de higienização de alguns equipamentos.
+4.	Lavatório destinado à higienização das mãos sem papel-toalha.
+RECURSOS
+Utilize o Assistente de Auditoria 2.0 e os critérios de validação Pare, Confira, Use.
+ATIVIDADES DELEGADAS
+•	Analisar cada não conformidade.
+•	Investigar possíveis causas utilizando os 5 Porquês.
+•	Classificar os riscos e justificar as prioridades.
+•	Elaborar ações corretivas e preventivas.
+•	Sugerir responsáveis e prazos.
+•	Definir evidências de execução e eficácia.
+•	Elaborar resumo executivo e indicadores gerenciais.
+LIMITES
+Não invente informações, evidências ou causas comprovadas. Diferencie fatos, hipóteses e recomendações. Não aprove ações ou prazos em nome da gestora.
+CRITÉRIOS DE SUCESSO
+Entregar um plano de ação completo, organizado, tecnicamente fundamentado e aplicável à gestão de um restaurante industrial.
+FORMA DE EXECUÇÃO
+Antes de iniciar a análise, apresente um plano de trabalho contendo as etapas, os resultados esperados e os pontos de validação.
+Aguarde minha aprovação do plano antes de executar a tarefa.
+Apresente checkpoints durante a execução e solicite minha validação quando houver decisões que dependam de julgamento gerencial.
+Ao final, entregue o relatório completo para minha conferência.
 Cole aqui o pedido que você entregou à IA, com objetivo, contexto, recursos, limites e sucesso.
 ```
 
